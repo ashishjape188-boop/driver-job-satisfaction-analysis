@@ -39,7 +39,7 @@ The dataset consists of structured survey and operational data collected from ri
 
 ## 🛠 Tools & Technologies Used
 
-- Microsoft Excel  
+- Python  
 - Statistical Analysis  
 - Data Cleaning & Preprocessing  
 - Exploratory Data Analysis (EDA)  
